@@ -9,7 +9,10 @@
 
 
 ## ADS circuit diagram
+<img width="1600" height="1152" alt="WhatsApp Image 2026-09-18 at 20 18 02" src="https://github.com/user-attachments/assets/73ada53f-25f9-4edd-bb00-d8b1ffb9079c" />
 
 ## output waveforms
+<img width="1308" height="789" alt="WhatsApp Image 2026-09-18 at 20 18 01 (1)" src="https://github.com/user-attachments/assets/57ececc5-22f4-436f-9e68-e1cb71351b27" />
 
 ## result
+<img width="785" height="1288" alt="WhatsApp Image 2026-09-18 at 20 18 01" src="https://github.com/user-attachments/assets/a28b13d4-cf91-47cf-9180-a3a2335951a6" />
