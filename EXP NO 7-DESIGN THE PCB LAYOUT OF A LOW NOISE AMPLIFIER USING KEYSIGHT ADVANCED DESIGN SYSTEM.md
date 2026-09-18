@@ -1,3 +1,4 @@
+
 <img width="636" height="637" alt="image" src="https://github.com/user-attachments/assets/d1240a46-bd2b-4b90-9d76-505aca85c1f5" />
 <img width="607" height="320" alt="image" src="https://github.com/user-attachments/assets/288bad17-16d9-41b4-8deb-195bf521d8f1" />
 <img width="531" height="708" alt="image" src="https://github.com/user-attachments/assets/0fa8335e-15e2-47c4-ba90-7b5b9625869d" />
@@ -9,7 +10,10 @@
 
 
 ## ADS circuit diagram
+<img width="1600" height="1152" alt="WhatsApp Image 2026-09-18 at 20 18 02" src="https://github.com/user-attachments/assets/b16db8e4-edaf-41a9-b35f-e09a2594ccbd" />
 
 ## output waveforms
+<img width="1308" height="789" alt="WhatsApp Image 2026-09-18 at 20 18 01 (1)" src="https://github.com/user-attachments/assets/71c1b517-9e94-498c-934a-d8b50fe46bfe" />
 
 ## result
+<img width="785" height="1288" alt="WhatsApp Image 2026-09-18 at 20 18 01" src="https://github.com/user-attachments/assets/b262f5ec-f818-46cf-93d3-a0d38bfa02e7" />
